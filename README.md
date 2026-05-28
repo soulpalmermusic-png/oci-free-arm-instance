@@ -164,4 +164,4 @@ Your VM will be provisioning in the OCI console. You can now log in using the SS
 
 ## License
 
-This repository is available under the [MIT License](LICENSE).
+This repository is available under the [MIT License](LICENSE). ok
